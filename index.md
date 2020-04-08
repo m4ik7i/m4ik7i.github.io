@@ -8,6 +8,7 @@
 ## Showcase
 
 - [m4ik7i/showcase-helloworld](https://github.com/m4ik7i/showcase-helloworld)
+    - {% include https://github.com/m4ik7i/showcase-helloworld/blob/master/README.md %}
 
 ## React
 
