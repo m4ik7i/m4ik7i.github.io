@@ -8,7 +8,12 @@
 ## Showcase
 
 - [m4ik7i/showcase-helloworld](https://github.com/m4ik7i/showcase-helloworld)
-    - {% include https://github.com/m4ik7i/showcase-helloworld/blob/master/README.md %}
+
+<iframe id="showcase-helloworld-readme"
+    width="300"
+    height="200"
+    src="https://github.com/m4ik7i/showcase-helloworld/blob/master/README.md">
+</iframe>
 
 ## React
 
