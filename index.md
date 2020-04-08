@@ -8,24 +8,25 @@
 ## Showcase
 
 - [m4ik7i/showcase-helloworld](https://github.com/m4ik7i/showcase-helloworld)
-
-<iframe
-  width="800"
-  height="600"
-  src="https://raw.githubusercontent.com/m4ik7i/showcase-helloworld/master/README.md"
-/>
+    - Showcase Hello World
 
 ## React
 
 - [m4ik7i/next-react-app](https://github.com/m4ik7i/next-react-app)
+    - React App created by Next.js
 
 ## Docker
 
 - [m4ik7i/docker-rust-nightly-macos](https://github.com/m4ik7i/docker-rust-nightly-macos)
+    - Docker Rust nightly macOS
 
 ## Sandbox
 
 - [m4ik7i/sandbox-aws-lambda](https://github.com/m4ik7i/sandbox-aws-lambda)
+    - Sandbox AWS Lambda
 - [m4ik7i/sandbox-command-line-tool](https://github.com/m4ik7i/sandbox-command-line-tool)
+    - Sandbox Command Line Tool by Rust
 - [m4ik7i/sandbox-echo-server](https://github.com/m4ik7i/sandbox-echo-server)
+    - Sandbox Echo Server
 - [m4ik7i/sandbox-fizzbuzz](https://github.com/m4ik7i/sandbox-fizzbuzz)
+    - Sandbox FizzBuzz
