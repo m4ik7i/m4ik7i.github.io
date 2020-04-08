@@ -9,6 +9,8 @@
 
 - [m4ik7i/showcase-helloworld](https://github.com/m4ik7i/showcase-helloworld)
     - Showcase Hello World
+- [m4ik7i/showcase-helloworld-web](https://github.com/m4ik7i/showcase-helloworld-web)
+    - Showcase Hello World Web
 
 ## React
 
