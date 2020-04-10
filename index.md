@@ -22,6 +22,11 @@
 - [m4ik7i/docker-rust-nightly-macos](https://github.com/m4ik7i/docker-rust-nightly-macos)
     - Docker Rust nightly macOS
 
+## Asciidoc
+
+- [m4ik7i/asciidoc-builder-gradle](https://github.com/m4ik7i/asciidoc-builder-gradle)
+    - Asciidoc Builder with Gradle (Asciidoctor)
+
 ## Sandbox
 
 - [m4ik7i/sandbox-aws-lambda](https://github.com/m4ik7i/sandbox-aws-lambda)
