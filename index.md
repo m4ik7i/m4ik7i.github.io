@@ -15,7 +15,7 @@
 ## React
 
 - [m4ik7i/next-react-app](https://github.com/m4ik7i/next-react-app)
-    - React App created by Next.js
+    - Create React App Example with Next.js
 
 ## Docker
 
