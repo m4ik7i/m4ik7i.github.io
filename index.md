@@ -41,3 +41,5 @@
     - Sandbox G6
 - [m4ik7i/sandbox-gh-pages-next](https://github.com/m4ik7i/sandbox-gh-pages-next)
     - Sandbox GitHub Pages with Next.js
+- [m4ik7i/sandbox-mdbook](https://github.com/m4ik7i/sandbox-mdbook)
+    - Sandbox mdBook
