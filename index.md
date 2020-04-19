@@ -43,3 +43,5 @@
     - Sandbox GitHub Pages with Next.js
 - [m4ik7i/sandbox-mdbook](https://github.com/m4ik7i/sandbox-mdbook)
     - Sandbox mdBook
+- [m4ik7i/sandbox-vivliostyle](https://github.com/m4ik7i/sandbox-vivliostyle)
+    - Sandbox Vivliostyle
